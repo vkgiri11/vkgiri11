@@ -1,6 +1,7 @@
 # 💫 About Me:
  I live by the motto: 'It works on my machine' 🙂.
-
+ Not a morning person, but definitely a "git" person 🙃🙂.
+ 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
