@@ -1,6 +1,6 @@
 # 💫 About Me:
- I live by the motto: 'It works on my machine' 🙂.
- Not a morning person, but definitely a "git" person 🙃🙂.
+ - I live by the motto: 'It works on my machine' 🙂.
+ - Not a morning person, but definitely a "git" person 🙃🙂.
  
 
 # 💻 Tech Stack:
