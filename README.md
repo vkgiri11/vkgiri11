@@ -22,9 +22,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vkgiri11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=vkgiri11&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vkgiri11&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=vkgiri11&theme=tokyonight&show_icons=true&hide=["issues"])
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vkgiri11&theme=tokyonight&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=vkgiri11&theme=radical&no-frame=false&no-bg=false&margin-w=4)
