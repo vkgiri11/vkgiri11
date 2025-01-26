@@ -1,9 +1,9 @@
 # 💫 About Me:
 <p align="left">
  ✨ Creating bugs since 2021 <br>
- 📚 I'm currently learning - Ninja baking! 🥋🍰 <br>
- 🎯 Goals: to write perfect code on the first try and make bugs extinct. Easy-peasy lemon squeezy! 🐛💻 <br>
- 🎲 Fun fact: living by the motto - 'It works on my machine'
+ 📚 Becoming a Java wizard 🧙‍♂️ and unlocking the secrets of Identity and Access Management (IAM) protocols. Crafting secure systems, one line at a time! 🛡️🔑 <br>
+ 🎯 Goals: To write code that’s so smooth, it practically writes itself. First try, no rewrites—just pure programming flow! 💡💻 <br>
+ 🎲 Fun fact:  I’ve never met a bug I couldn’t squash... except maybe the ones that only appear in production! 🐞⚡'
 </p>
 
 <h2 align="left">💻 I code with</h2>
